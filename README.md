@@ -263,21 +263,7 @@ This app is deployed across three free-tier services:
 
 ---
 
-## 📋 Evaluation Criteria Met
 
-| Criteria | Implementation |
-|----------|---------------|
-| ✅ Code Quality | MVC architecture, separated concerns, reusable hooks and components |
-| ✅ UI/UX | Dark theme, responsive layout, smooth animations, toast notifications |
-| ✅ Functionality | Full CRUD, auth, search, filter, sort, pagination, toggle |
-| ✅ Error Handling | Global error handler, form validation (client + server), JWT expiry handling |
-| ✅ Creativity | Completion ring chart, password strength meter, priority/status badges, overdue date indicators |
-| ✅ Bonus: Search | Debounced real-time search across title and description |
-| ✅ Bonus: Filter | Filter by status + priority, multi-field sorting |
-| ✅ Bonus: Pagination | Server-side pagination with page controls |
-| ✅ Bonus: Deployment | Live on Vercel + Render + MongoDB Atlas |
-
----
 
 ## 👩‍💻 Author
 
